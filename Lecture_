@@ -1,0 +1,9 @@
+info ={
+
+"key":"value",
+"name":"apnacollege",
+"learning":"coding"
+
+
+}
+print(info)
